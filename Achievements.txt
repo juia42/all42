@@ -1,0 +1,97 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    Achievements.txt                                   :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: hchauvin <marvin@42.fr>                    +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2022/11/17 09:31:51 by hchauvin          #+#    #+#              #
+#    Updated: 2022/11/17 09:54:28 by hchauvin         ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+List of 42 Achievements :
+
+Logged for 24h straight.
+Logged for a total of 90 hours over a week.
+Do both;
+
+Validate 10 projects in a row.
+Validate 21 projects with the maximum score.
+Validate 21 projects.
+Log once in every cluster.
+Log in the same cluster for a whole month.
+Make a defense without having validated the project.
+Watch 10 videos from the e-learning.
+Participate in 21 defenses in a row without missing any.
+Perform 10 defenses in one day as a corrector.
+
+Pass the C piscine !
+Participer au Time Capsule et se laisser un petit mot.
+Created video captions for the intra.
+Faire un suedage d'une video de l'e-learning.
+
+Collect 500 wallet points.
+Collect 1000 wallet points.
+Buy your first item at the shop.
+
+
+Visit 42 campus in Paris.
+Visit 42 campus in Lyon.
+Visit 42 campus in Nice.
+Visit 42 campus in Fremont.
+Visit 42 campus in Vienna.
+Visit 41 campus in ;alaga and say hi to the staff.
+Visit 42 campus in Madrid and say hi to the staff.
+Visit 42 campus in Barcelona, with a croissant, a baguette and a beret.
+Help to cook for an event at 42 Paris.
+Visit Paris and Fremont campuses.
+
+Validate the project "Boot2root" with a 100.
+Validate the project "Famine, Death, Pestilence, War and Death" with a 100.
+Validate the project "M4nhatt4n Pr0j3ct" with a 100.
+Validate the projects "Corewar, RT, 42sh, && Hypertube" with a 100.
+Validate the projects "Snow Crash, Rainfall & Override" with a 100.
+
+Validate 15 group projects with 15 peers from different groups.
+Validated all rush sessions for a year.
+Validate 3 projects in a row.
+Validate 42 projects.
+Donate 1 evaluation point to the pool.
+Validated and redid 1 project.
+Was the first one validating a project.
+Become pixel.
+Chosen by the voxotron.
+Participe in a BDE voyage.
+Validate a partnership with 150 score.
+Do both Awake and Meet the Pentester.
+Do both Master of the basics & Advanced Master.
+Do both The Lockpicker & Bomb has been defused.
+
+Valider un partenariat.
+Encadrer un partenariat avec des enfants.
+Encadrer un partenariat d'au moins 1 semaine.
+Creer une Association a 42.
+Represent 42 at an external event.
+Traced a major security breach on the infra or intra.
+Joined a school sports association.
+
+Reach lvl 21.
+Reach lvl 25.
+
+Supervise 1 exam as a tutor.
+Build a POSIX-compliant shell.
+Participate in the sponsorship program as sponsor.
+
+Reach podium with your team during a Corewar Championship!
+Win the Corewar Championship !
+Be elected on the Megatron!
+Become a member of the bocal.
+Created a subject fpr peer-pedagogy.
+Created a Piscine.
+Watched 42 videos from the e-learning.
+Become delegued.
+Watch all C piscine videos.
+Winning team of CTF OSINT by APT42.
+Elected president, secretaire or tresorier of 42 BDE.
+Write 42 comments with more than 180 characters in corrections.
